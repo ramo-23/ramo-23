@@ -35,6 +35,25 @@ I enjoy building apps, small tools, dashboards, and pipelines that turn raw info
 
 ---
 
+## ⏱️ Coding Activity (WakaTime)
+
+<p align="center">
+  <a href="https://wakatime.com/@d795849d-6339-46f8-8927-9a3746c36bb5">
+    <img src="https://wakatime.com/badge/user/d795849d-6339-46f8-8927-9a3746c36bb5.svg?style=for-the-badge" alt="WakaTime badge" />
+  </a>
+</p>
+
+<details>
+  <summary>📊 Weekly Breakdown (click to expand)</summary>
+
+  <!--START_SECTION:waka-->
+  <!-- Your weekly WakaTime coding breakdown will auto-update here -->
+  <!--END_SECTION:waka-->
+
+</details>
+
+---
+
 ## 🧪 Projects (Showcase)
 
 | Project | What It Does | Tech |
@@ -62,7 +81,7 @@ I enjoy building apps, small tools, dashboards, and pipelines that turn raw info
 
 ## 🤝 Open To
 - Data-focused side projects  
-- Beginner-level collaboration  
+- Beginner-level collaboration (or intermediate😁)  
 - Any opportunity where analytics + software meet  
 
 ---
