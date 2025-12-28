@@ -58,7 +58,7 @@ I enjoy building apps, small tools, dashboards, and pipelines that turn raw info
 
 | Project | What It Does | Tech |
 |--------|---------------|------|
-| 🛍️ **FitXcel** | E-commerce fitness app — products, filtering, reviews, cart & backend | Angular, .NET Web API, SQL Server |
+| 🛍️ **FitTrack** | E-commerce fitness app — products, filtering, reviews, cart & backend | Angular, .NET Web API, SQL Server |
 | 📊 **Log Analytics Pipeline** | ETL → clean → store → visualize operational log data | Python, Pandas, DuckDB, Streamlit |
 
 > 📌 *Pinned repos below include source code. Demos & screenshots coming soon.*
