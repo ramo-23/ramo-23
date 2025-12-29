@@ -1,26 +1,30 @@
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=4F9DDE&width=600&lines=Hi+there%2C+I'm+Ramokhele+Manyeli+%F0%9F%91%8B;Data+Science+%26+Analytics+Enthusiast;Hobbyist+Developer+who+Builds+to+Learn" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=4F9DDE&width=600&lines=Hello%2C+I'm+Ramokhele+Manyeli+%F0%9F%91%8B;Data+Science+%26+Analytics+Enthusiast;I+Build+Software+to+Learn" alt="Typing SVG" />
 
 ---
 
 ## 📊 About Me
-I’m passionate about data, analytics, and using software as a tool to explore insights.
+I’m passionate about transforming raw information into meaningful stories.  
+My background sits at the intersection of statistics, data science, analytics, and information systems development, and I mainly use software engineering as a tool to explore, understand, and create.
 
-While I primarily code as a hobby, my strongest academic background and interest lies in statistics, data science, and information systems development.
+I enjoy building:
+- Data dashboards and analytical tools  
+- Small apps, utilities, and automation scripts  
+- Data pipelines that extract → clean → store → visualise  
 
-I enjoy building apps, small tools, dashboards, and pipelines that turn raw information into something useful.
+I learn by doing — most of my work is hobby-driven, curiosity-focused, and shipped simply because it’s fun.
 
 ---
 
-## 🧰 Tech & Tools I Use
+## 🧰 Tech Stack & Tools
 
 **Data & Analytics**
 - Python • Pandas • Streamlit • SQL • DuckDB  
-- Statistical & business analytics (undergrad foundation)
+- Statistical and business analytics (academic foundation)
 
-**Software (for projects – hobbyist)**
+**Software (for projects)**
 - C# • .NET Web API • Angular • JavaScript / TypeScript  
-- Docker • GitHub Actions • Swagger • Postman  
+- Docker • GitHub Actions (CI/CD) • Swagger • Postman  
 - SQL Server • PostgreSQL  
 
 ### 🏷️ Badges
@@ -35,65 +39,48 @@ I enjoy building apps, small tools, dashboards, and pipelines that turn raw info
 
 ---
 
-## ⏱️ Coding Activity (WakaTime)
+## 🧪 Featured Projects
 
-<p align="center">
-  <a href="https://wakatime.com/@d795849d-6339-46f8-8927-9a3746c36bb5">
-    <img src="https://wakatime.com/badge/user/d795849d-6339-46f8-8927-9a3746c36bb5.svg?style=for-the-badge" alt="WakaTime badge" />
-  </a>
-</p>
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🛍️ **FitTrack** | Fitness e-commerce application — product catalogue, filtering, reviews, cart, and a supporting backend | Angular, .NET Web API, SQL Server |
+| 📊 **Log Analytics Pipeline** | ETL pipeline that ingests, cleans and visualises operational log data | Python, Pandas, DuckDB, Streamlit |
 
-<details>
-  <summary>📊 Weekly Breakdown (click to expand)</summary>
-
-  <!--START_SECTION:waka-->
-  <!-- Your weekly WakaTime coding breakdown will auto-update here -->
-  <!--END_SECTION:waka-->
-
-</details>
-
----
-
-## 🧪 Projects (Showcase)
-
-| Project | What It Does | Tech |
-|--------|---------------|------|
-| 🛍️ **FitTrack** | E-commerce fitness app — products, filtering, reviews, cart & backend | Angular, .NET Web API, SQL Server |
-| 📊 **Log Analytics Pipeline** | ETL → clean → store → visualize operational log data | Python, Pandas, DuckDB, Streamlit |
-
-> 📌 *Pinned repos below include source code. Demos & screenshots coming soon.*
+> 📌 Pinned repositories contain full source code. Screenshots & hosted demos coming soon.
 
 ---
 
 ## 🌱 Currently Learning
-- ETL & data engineering fundamentals
-- Clean backend architecture in .NET
-- Angular component patterns (just for fun 😄)
+- Data engineering & ETL fundamentals  
+- Clean architecture in .NET  
+- Angular component patterns (mostly for fun 😄)
 
 ---
 
-## 🎯 I Enjoy Building
-- Dashboards that help make sense of data  
-- APIs and automation tools that save time  
-- Systems that tell a story using numbers  
+## 🎯 What I Like to Build
+- Dashboards that make sense of numbers  
+- APIs that automate manual or repetitive tasks  
+- Systems that help people take better decisions  
 
 ---
 
 ## 🤝 Open To
-- Data-focused side projects  
-- Beginner-level collaboration (or intermediate😁)  
-- Any opportunity where analytics + software meet  
+- Data-focused side projects or collaborations  
+- Beginner-friendly contributor roles  
+- Any opportunity where analytics meets software  
 
 ---
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramokhele-manyeli&show_icons=true&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramokhele-manyeli&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramokhele-manyeli&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ramo-23&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=ramo-23&hide_border=true" alt="GitHub streak stats" />
+  <br />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ramo-23&layout=compact&hide_border=true" alt="Top languages" />
 </p>
+
 
 ---
 
@@ -104,5 +91,5 @@ I enjoy building apps, small tools, dashboards, and pipelines that turn raw info
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect
 🔗 LinkedIn — www.linkedin.com/in/ramokhele-manyeli-98b37b265  
