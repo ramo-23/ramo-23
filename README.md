@@ -45,6 +45,8 @@ I learn by doing — most of my work is hobby-driven, curiosity-focused, and shi
 |--------|-------------|------|
 | 🛍️ **FitTrack** | Fitness e-commerce application — product catalogue, filtering, reviews, cart, and a supporting backend | Angular, .NET Web API, SQL Server |
 | 📊 **Log Analytics Pipeline** | ETL pipeline that ingests, cleans and visualises operational log data | Python, Pandas, DuckDB, Streamlit |
+| 🛒 **Retail Forecast** | End-to-end retail sales forecasting pipeline — data preprocessing, feature engineering, Random Forest forecasting, model evaluation, and forecast visualization | Python, Polars, Pandas, scikit-learn, Matplotlib |
+
 
 > 📌 Pinned repositories contain full source code. Screenshots & hosted demos coming soon.
 
@@ -75,8 +77,6 @@ I learn by doing — most of my work is hobby-driven, curiosity-focused, and shi
 
 <p align="center">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ramo-23&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=ramo-23&hide_border=true" alt="GitHub streak stats" />
   <br />
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ramo-23&layout=compact&hide_border=true" alt="Top languages" />
 </p>
