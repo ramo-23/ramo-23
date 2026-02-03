@@ -1,95 +1,101 @@
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=4F9DDE&width=600&lines=Hello%2C+I'm+Ramokhele+Manyeli+%F0%9F%91%8B;Data+Science+%26+Analytics+Enthusiast;I+Build+Software+to+Learn" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=4F9DDE&width=600&lines=Hey%2C+I’m+Ramokhele+Manyeli+%F0%9F%91%8B;Data+Analytics+%26+Applied+Data+Science;Turning+Data+into+Decisions" alt="Typing SVG" />
 
 ---
 
-## 📊 About Me
-I’m passionate about transforming raw information into meaningful stories.  
-My background sits at the intersection of statistics, data science, analytics, and information systems development, and I mainly use software engineering as a tool to explore, understand, and create.
+## About
 
-I enjoy building:
-- Data dashboards and analytical tools  
-- Small apps, utilities, and automation scripts  
-- Data pipelines that extract → clean → store → visualise  
+My work is centered on data science, with a practical skill set that naturally carries across analytics and data engineering.
 
-I learn by doing — most of my work is hobby-driven, curiosity-focused, and shipped simply because it’s fun.
+I focus on solving real data problems end‑to‑end: framing questions, exploring and cleaning data, engineering features, building and evaluating models, and communicating results clearly.
+
+My software background still shows up — but mainly as an advantage. I use engineering practices to make data work **reproducible, structured, and closer to production**, rather than as an end in itself.
+
+*I care less about titles and more about whether the analysis actually helps someone decide.*
 
 ---
 
-## 🧰 Tech Stack & Tools
+## What I Do
 
-**Data & Analytics**
-- Python • Pandas • Streamlit • SQL • DuckDB  
-- Statistical and business analytics (academic foundation)
+* Exploratory data analysis & feature engineering
+* Predictive modeling and forecasting
+* End-to-end workflows from raw data to insights
+* Clear analytical communication through visuals and narratives
 
-**Software (for projects)**
-- C# • .NET Web API • Angular • JavaScript / TypeScript  
-- Docker • GitHub Actions (CI/CD) • Swagger • Postman  
-- SQL Server • PostgreSQL  
+---
 
-### 🏷️ Badges
+## Tools I Reach For
+
+**Languages & Tools**
+Python · SQL · Pandas · Polars · DuckDB · Streamlit
+
+**Analytics & Modeling**
+Statistical analysis · Business analytics · scikit-learn · Model evaluation
+
+**Data Engineering (foundational)**
+ETL concepts · Data validation · Reproducible pipelines
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?logo=polars&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" />
 </p>
 
 ---
 
-## 🧪 Featured Projects
+## Pinned Data Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🛍️ **FitTrack** | Fitness e-commerce application — product catalogue, filtering, reviews, cart, and a supporting backend | Angular, .NET Web API, SQL Server |
-| 📊 **Log Analytics Pipeline** | ETL pipeline that ingests, cleans and visualises operational log data | Python, Pandas, DuckDB, Streamlit |
-| 🛒 **Retail Forecast** | End-to-end retail sales forecasting pipeline — data preprocessing, feature engineering, Random Forest forecasting, model evaluation, and forecast visualization | Python, Polars, Pandas, scikit-learn, Matplotlib |
+These projects represent the core of my current data-focused work.
 
+| Project                     | Focus                                                                                                        | Stack                                |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------ |
+| **Retail Forecast** 🛒      | End-to-end demand forecasting: problem framing, feature engineering, modeling, evaluation, and visualization | Python, Polars, Pandas, scikit-learn |
+| **Credit Risk Project** 🏦  | Real-world credit risk modeling pipeline with structured data processing and evaluation                      | Python, Pandas, scikit-learn         |
+| **Job Market Analytics** 📊 | Market-level analytics platform for exploring trends, roles, and demand using cleaned job listings data      | Python, SQL, Analytics workflows     |
+| **Regression Scholar** 📐   | Retrieval-Augmented Generation system for exploring regression analysis concepts and research                | Python, Jupyter, NLP tooling         |
 
-> 📌 Pinned repositories contain full source code. Screenshots & hosted demos coming soon.
-
----
-
-## 🌱 Currently Learning
-- Data engineering & ETL fundamentals  
-- Clean architecture in .NET  
-- Angular component patterns (mostly for fun 😄)
+> Earlier software-heavy projects are kept for context, but my current focus is data science and analytics.
 
 ---
 
-## 🎯 What I Like to Build
-- Dashboards that make sense of numbers  
-- APIs that automate manual or repetitive tasks  
-- Systems that help people take better decisions  
+## Current Threads
+
+* Stronger data engineering fundamentals (ETL, storage, orchestration concepts)
+* More realistic datasets and business-style problem framing
+* Improving project documentation and analytical storytelling
 
 ---
 
-## 🤝 Open To
-- Data-focused side projects or collaborations  
-- Beginner-friendly contributor roles  
-- Any opportunity where analytics meets software  
+## Interests
+
+* Practical data science over theory-heavy work
+* Forecasting, time-series, and business-facing models
+* Bridging analytics and engineering without over-specializing
 
 ---
 
-## 📈 GitHub Stats
+## Collaboration
+
+* Data analytics / junior data science roles
+* Data-focused side projects
+* Collaborative learning environments
+
+---
+
+## GitHub Snapshot (at a glance)
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ramo-23&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ramo-23&show_icons=true&hide_border=true" />
   <br />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ramo-23&layout=compact&hide_border=true" alt="Top languages" />
-</p>
-
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ramo-23&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect
-🔗 LinkedIn — www.linkedin.com/in/ramokhele-manyeli-98b37b265  
+## Connect
+
+LinkedIn → [Ramokhele-Manyeli](http://www.linkedin.com/in/ramokhele-manyeli-98b37b265)
